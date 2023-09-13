@@ -1,0 +1,40 @@
+{
+    "token": "MTA1NTQyMzQyNDA4NTkwNTQ1MQ.GlF3N6.-an5spEac68zOiTOHQqLoGx6jaPalst_k309ew",
+    "prefix": ".",
+    "mongoURl": "mongodb+srv://bochi:bochi123@cluster0.yd1dkf1.mongodb.net/",
+
+    "xpAdding": 5,
+    "vcXpadd": 25,
+    "tick": "<a:CH_VerifiedTickLightPink:1118220487743512626>",
+    "wrong": "<:wrong:1079327393354891264>",
+
+    "helper": "1047554761785868339",
+
+    "owner": [
+        "857902685733519400",
+        "819374297424199680",
+        "770273646983643207"
+        
+    ],
+
+    "ownerrole": "1117424389592461323",
+
+    "mainServer": "1047543202758008842",
+    "guildName": "",
+
+    "lbline": "https://cdn.discordapp.com/attachments/1031043926343307275/1084359731105255494/line-colors-1.gif",
+
+    "channels": {
+        "welcome": [
+            "1047543203324235808"
+        ],
+        "chats": [
+            "1047543203324235808",
+            "1047557141076135976"
+        ],
+        "chatlb": "1118202783867342868",
+        "vclb": "1118202821658026105",
+        "economylb": "1118202853325025372",
+        "levelups" : "1047543203324235808"
+    }
+}

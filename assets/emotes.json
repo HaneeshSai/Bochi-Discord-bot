@@ -1,0 +1,35 @@
+{
+    "numbers": [
+        "<:cs_PastelNumber1:1081604668196651150>",
+        "<:cs_PastelNumber2:1081603930825437254>",
+        "<:cs_PastelNumber3:1081603912487932024>",
+        "<:cs_PastelNumber4:1081604273076457482>",
+        "<:cs_PastelNumber5:1081604361026805871>",
+        "<:cs_PastelNumber6:1081604541558030437>",
+        "<:cs_PastelNumber7:1081604758927855728>",
+        "<:cs_PastelNumber8:1081604812749148161>",
+        "<:cs_PastelNumber9:1081605611017486369>"
+    ],
+
+    "arrow": "<a:arrow:1087007948858986618>",
+
+    "crown": "<a:9ffking:1081601471239442513>",
+
+    "heart": "<a:bheart:1084363244409454684>",
+
+    "levelup": {
+        "congrats": "<:confetti:1081882486138753074>",
+        "boost": "<:boosts:1081882208517754890>"
+    },
+    "stats": {
+        "diamond": "<a:CH_Diamond_Shiny:1081892821457436723>",
+        "blueheart": "<a:cute_hearts:1079663948430848062>",
+        "pinghearts": "<a:AL_heartslightpink:1081893238404821153>"
+    },
+    "welcome": {
+        "yay": "<a:YAY:1079663245364842507>",
+        "yayceleb": "<a:yayyy_celebrate:1082332299774939216>",
+        "arrow": "<a:arrow:1087007948858986618>",
+        "pinkheat": "<a:PinkFloatingHearts:1082343214926798848>"
+    }
+}

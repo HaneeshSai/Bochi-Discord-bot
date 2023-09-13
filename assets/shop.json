@@ -1,0 +1,123 @@
+{
+    "buyable": {
+        "items": [
+            {
+                "id": "11",
+                "name": "cash_booster",
+                "description": "Gain Extra cash for the usual **.work**, **.daily**, **.beg**",
+                "validity": "1 week",
+                "price": 25000
+            },
+            {
+                "id": "12",
+                "name": "xp_booster",
+                "description": "Gain Extra Xp for Chat and VC",
+                "validity": "1 week",
+                "price": 50000
+            },
+            {
+                "id": "13",
+                "name": "anti_steal",
+                "description": "You can be immune to **.rob**, Keep your cash safe",
+                "validity": "1 week",
+                "price": 100000
+            }
+        ],
+        "tools": [
+            {
+                "id": "101",
+                "name": "shovel",
+                "description": "Buy a Shovel and use to for digging, if you're lucky you might find diamonds",
+                "validity": "10 uses",
+                "usage": ".dig",
+                "price": 20000
+            },
+            {
+                "id": "102",
+                "name": "fishing_rod",
+                "description": "Buy a fishing rod and go for fishing, if you're lucky you might catch a Fugu fish",
+                "validity": "10 uses",
+                "usage": ".fish",
+                "price": 18000
+            },
+            {
+                "id": "103",
+                "name": "cross_bow",
+                "description": "Buy a Cross-Bow and go for hunting, if you're lucky you might get to hunt a Deer",
+                "usage": ".hunt",
+                "validity": "10 uses",
+                "price": 23000
+            }
+        ],
+        "backgrounds": {}
+    },
+
+    "sellable": [
+            {
+                "id": "104",
+                "name": "coal",
+                "price": 200
+            },
+            {
+                "id": "105",
+                "name": "iron",
+                "price": 700
+            },
+            {
+                "id": "106",
+                "name": "silver",
+                "price": 3000
+            },
+            {
+                "id": "107",
+                "name": "gold",
+                "price": 5000
+            },
+            {
+                "id": "108",
+                "name": "diamond",
+                "price": 15000
+            },
+            {
+                "id": "109",
+                "name": "tuna",
+                "price": 300
+            },
+            {
+                "id": "110",
+                "name": "salmon",
+                "price": 500
+            },
+            {
+                "id": "111",
+                "name": "appolo",
+                "price": 1000
+            },
+            {
+                "id": "112",
+                "name": "ghol",
+                "price": 5000
+            },
+            {
+                "id": "113",
+                "name": "rabbit",
+                "price": 500
+            },
+            {
+                "id": "114",
+                "name": "boar",
+                "price": 30000
+            },
+            {
+                "id": "115",
+                "name": "deer",
+                "price": 100000
+            },
+            {
+                "id": "116",
+                "name": "squirrel",
+                "price": 300
+            }
+        ]
+        
+}
